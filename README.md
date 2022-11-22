@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring New Techstacks and Different-Different Frameworks.<br>🤔 Working on Myself.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br> 😄 Pronouns: He/His<br>⚡ Fun fact: I love to read books and Like to Play Volleyball.
 
+HackerRank: https://www.hackerrank.com/amish_76
+LeetCode: https://leetcode.com/amish_76/
+CodeForces: https://codeforces.com/profile/amish_76
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amish Pithva) 
