@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amish Pithva) 
-[![LeetCode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/amish_76/)
+[![LeetCode](<iconify-icon icon="simple-icons:leetcode"></iconify-icon>)](https://leetcode.com/amish_76/)
 [![HackerRank](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.hackerrank.com/amish_76)
 [![CodeForces](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://codeforces.com/profile/amish_76)
 
