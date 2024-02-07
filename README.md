@@ -1,9 +1,13 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring New Techstacks and Different-Different Frameworks.<br>🤔 Working on Myself.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br> 😄 Pronouns: He/His<br>⚡ Fun fact: I love to read books and Like to Play Volleyball.
 
-**HackerRank**: https://www.hackerrank.com/amish_76 | 
-**LeetCode**: https://leetcode.com/amish_76/ |
-**CodeForces**: https://codeforces.com/profile/amish_76
+## My Portfolio: <br>
+https://amishportfolio.vercel.app/ <br>
+
+Coding Stats: <br>
+**HackerRank**: https://www.hackerrank.com/amish_76 <br>
+**LeetCode**: https://leetcode.com/amish_76/ <br>
+**CodeForces**: https://codeforces.com/profile/amish_76 <br>
 
 
 ## 🌐 Socials:
