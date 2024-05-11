@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring New Techstacks and Different-Different Frameworks.<br>🤔 Working on Myself.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br> 😄 Pronouns: He/His<br>⚡ Fun fact: I love to read books and Like to Play Volleyball.
+🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring New Techstacks and Different Frameworks.<br>🤔 Working on Myself.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br> 😄 Pronouns: He/His<br>⚡ Fun fact: I love to read books and Like to Play Volleyball.
 
 ### My Portfolio: https://amishportfolio.vercel.app/
 
